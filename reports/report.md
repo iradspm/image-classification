@@ -26,8 +26,8 @@ Different models were experimented:
 Of these models, the best performining model was the baseline model which was later improved adding regularization techniques (dropout layers), and callbacks.
 The model architecture is summarized below.
 
-![Model](outputs/model.png)
+![Model](model.png)
 ## Evaluation of best model
 The best model was evaluated based on precision, recall, F1-score and accuracy on the test data. These results are summarized below
 
-![Results](outputs/image.png)
+![Results](image.png)
