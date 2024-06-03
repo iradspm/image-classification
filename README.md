@@ -31,7 +31,7 @@ python main.py
 ```
 5. Interact with the application
 
-When the application starts, interact with it at the below URL
+When the application starts, interact with it at the below
 
 ```
 http://127.0.0.1:5000
