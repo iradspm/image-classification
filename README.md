@@ -36,4 +36,8 @@ When the application starts, interact with it at the below
 ```
 http://127.0.0.1:5000
 ```
+6. Interface for uploading image
+![Uploading image](outputs/test.png)
 
+6. Interface for predicting image class
+![Image class](outputs/test2.png)
