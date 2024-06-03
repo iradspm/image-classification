@@ -10,14 +10,30 @@ Using Flask to deploy our best model for the classification on [CIFAR10 dataset]
 
 ```
 python -m venv venv
+```
+```
 . venv/Scripts/activate
 ```
-Install requirements
 
-```
-Install with pip:
+3. Install requirements using pip
 
 ```
 $ pip install -r requirements.txt
+```
+4. Run the application
+4.1 Navigate to main.py
+```
+cd app
+```
+4.2 Execute the flask app
+```
+python main.py
+```
+5. Interact with the application
+
+When the application starts, interact with it at the below URL
 
 ```
+http://127.0.0.1:5000
+```
+
