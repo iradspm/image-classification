@@ -9,11 +9,11 @@ In summary of this project, we can note that:
     - Other pre-processing involved normalization of images
 
 Sample images before adjusting brightness and contrast
-![Before](outputs/before.png)
+![Before](https://github.com/iradspm/image-classification/blob/main/outputs/before.png)
 
 Sample images after adjusting brightness and contrast
 
-![After](outputs/after.png)
+![After](https://github.com/iradspm/image-classification/blob/main/outputs/after.png)
 
 ## Building model
 ## Evaluation of best model
