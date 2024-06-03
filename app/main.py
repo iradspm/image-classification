@@ -14,7 +14,7 @@ Constants variables to use in this work.
 """
 app = Flask(__name__)
 
-model = load_model('baseline_model.h5', compile=False)
+model = load_model('final_model.h5', compile=False)
 class_names = ['airplane', 'automobile', 'bird', 'cat', 'deer','dog', 'frog', 'horse', 'ship', 'truck']
 
 @app.route('/')

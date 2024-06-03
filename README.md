@@ -41,3 +41,8 @@ http://127.0.0.1:5000
 
 6. Interface for predicting image class
 ![Image class](outputs/test2.png)
+
+7. Sample tests with real life images
+![Frog](outputs/test3.png)
+![Deer](outputs/test4.png)
+![Airplane](outputs/test4.png)
