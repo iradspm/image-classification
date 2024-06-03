@@ -21,11 +21,11 @@ python -m venv venv
 $ pip install -r requirements.txt
 ```
 4. Run the application
-4.1 Navigate to main.py
+- Navigate to main.py
 ```
 cd app
 ```
-4.2 Execute the flask app
+- Execute the flask app
 ```
 python main.py
 ```
