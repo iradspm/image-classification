@@ -22,7 +22,7 @@ def build_model():
 
     model.compile(optimizer = 'adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
 
-    model.compile(optimizer='adam',
-                loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
-                metrics=['accuracy'])
+    # model.compile(optimizer='adam',
+    #             loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
+    #             metrics=['accuracy'])
     return model
